@@ -1,0 +1,5 @@
+﻿process.obj : error LNK2019: 无法解析的外部符号 getOutputLevel，该符号在函数 "public: class artec::sdk::base::IFrameMesh * * __cdecl artec::sdk::base::TRef<class artec::sdk::base::IFrameMesh>::operator&(void)" (??I?$TRef@VIFrameMesh@base@sdk@artec@@@base@sdk@artec@@QEAAPEAPEAVIFrameMesh@123@XZ) 中被引用
+process.obj : error LNK2019: 无法解析的外部符号 report，该符号在函数 "public: class artec::sdk::base::IFrameMesh * * __cdecl artec::sdk::base::TRef<class artec::sdk::base::IFrameMesh>::operator&(void)" (??I?$TRef@VIFrameMesh@base@sdk@artec@@@base@sdk@artec@@QEAAPEAPEAVIFrameMesh@123@XZ) 中被引用
+process.obj : error LNK2019: 无法解析的外部符号 saveObjFrameToFile，该符号在函数 main 中被引用
+process.obj : error LNK2019: 无法解析的外部符号 loadObjFrameFromFile，该符号在函数 main 中被引用
+D:\Zhouxh-project\source code\artec\artec-sdk-samples-v2.0\samples\x64\Debug\Artec-process.exe : fatal error LNK1120: 4 个无法解析的外部命令

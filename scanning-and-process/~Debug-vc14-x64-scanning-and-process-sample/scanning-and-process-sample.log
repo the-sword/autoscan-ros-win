@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (~Debug-vc14-x64-scanning-and-process-sample/) contains files shared from another project (scanning-and-process-sample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  scanning-and-process-sample.cpp
+source\scanning-and-process-sample.cpp(327): warning C4305: “=”: 从“double”到“float”截断
+source\scanning-and-process-sample.cpp(402): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\time.h(505): note: 参见“localtime”的声明
+source\scanning-and-process-sample.cpp(606): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  scanning-and-process-sample.vcxproj -> D:\Zhouxh-project\source code\autoscanner\autoscan-ros-win\samples\scanning-and-process\bin-vc14-x64\scanning-and-process-sampled.exe
+  scanning-and-process-sample.vcxproj -> bin-vc14-x64\scanning-and-process-sampled.pdb (Full PDB)
+  复制了 0 个文件
